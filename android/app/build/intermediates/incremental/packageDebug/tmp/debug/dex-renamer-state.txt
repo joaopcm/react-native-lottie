@@ -1,0 +1,4 @@
+#Mon Dec 09 19:26:41 BRST 2019
+base.0=/home/joaopcm/Projetos/react-native-lottie/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
